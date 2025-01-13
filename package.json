@@ -9,8 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
     "realtime-spotify-clone-master": "file:"
-  },
-  "description": ""
+  }
 }
