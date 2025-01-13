@@ -32,6 +32,7 @@
     "realtime-spotify-clone-master": "file:..",
     "socket.io-client": "^4.8.1",
     "tailwind-merge": "^2.5.4",
+    "tailwindcss": "^3.4.17",
     "tailwindcss-animate": "^1.0.7",
     "zustand": "^5.0.1"
   },
@@ -47,7 +48,6 @@
     "eslint-plugin-react-refresh": "^0.4.14",
     "globals": "^15.11.0",
     "postcss": "^8.4.47",
-    "tailwindcss": "^3.4.14",
     "typescript": "~5.6.2",
     "typescript-eslint": "^8.11.0",
     "vite": "^5.4.10"
